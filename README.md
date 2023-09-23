@@ -25,11 +25,10 @@ This guide will walk you through setting up and running a Flask web application 
    python --version
 
 3. **Install Flask:**
+   
    pip install Flask
 
-4. **Run Flask Application**
+5. **Run Flask Application**
+   
    python app.py
 
-Replace `"Elanchezhian Muthukumar"` and `"your-repo"` in the clone command with your actual GitHub username and repository name.
-
-You can create a `README.md` file in your GitHub repository by simply adding this content to a file named `README.md` in the root of your repository. GitHub will automatically render it as a nicely formatted README when someone visits your repository.
