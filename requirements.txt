@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+autopy
+googlescrap
+pyttsx3
+pywhatkit
+SpeechRecognition
+wikipedia
+pyjokes
+winshell
+PyAudio
+Flask

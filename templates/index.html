@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Smart Interaction for Physically Challenged</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='css/logo.png') }}" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <a href="{{ url_for('userguide') }}">
+            <img src="{{ url_for('static', filename='css/el-log.png') }}" alt="logo" class="navbar-logo" />
+        </a>
+        <ul class="navbar-links">
+            <li><a href="{{ url_for('userguide') }}">User Guide</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <form>
+            <div class="button-container">
+                <button type="button" id="face-control-btn">Virtual Face Mouse Control</button>
+                <button type="button" id="start-button">Voice Assistant Control</button>
+                <button type="button" id="hand-control-btn">Virtual Hand Mouse Control</button>
+                <button type="button" id="keyboard-control-btn">Virtual Keyboard Control</button>
+            </div>
+        </form>
+    </div>
+    <footer>
+        <p>&copy; 2023 Elan Innovatix Labs | Designed by Elanchezhian_Muthukumar</p>
+    </footer>
+    <div id="output-container"></div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" async></script>
+</body>
+</html>
+

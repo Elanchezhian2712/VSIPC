@@ -1,0 +1,41 @@
+2023-09-17 13:32:25,106 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-17 13:32:25,106 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-17 13:32:25,109 - INFO:  * Restarting with stat
+2023-09-17 13:32:25,602 - WARNING:  * Debugger is active!
+2023-09-17 13:32:25,607 - INFO:  * Debugger PIN: 620-993-558
+2023-09-17 13:32:39,999 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:39] "GET / HTTP/1.1" 200 -
+2023-09-17 13:32:40,022 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-09-17 13:32:40,029 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:40] "GET /static/js/script.js HTTP/1.1" 200 -
+2023-09-17 13:32:40,030 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:40] "[36mGET /static/css/el-log.png HTTP/1.1[0m" 304 -
+2023-09-17 13:32:40,046 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:40] "[36mGET /static/css/logo.png HTTP/1.1[0m" 304 -
+2023-09-17 13:32:53,844 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:53] "GET / HTTP/1.1" 200 -
+2023-09-17 13:32:53,867 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:53] "[36mGET /static/css/el-log.png HTTP/1.1[0m" 304 -
+2023-09-17 13:32:53,868 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-09-17 13:32:53,872 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2023-09-17 13:32:53,889 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:53] "[36mGET /static/css/logo.png HTTP/1.1[0m" 304 -
+2023-09-17 13:32:55,029 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:55] "GET / HTTP/1.1" 200 -
+2023-09-17 13:32:55,180 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2023-09-17 13:32:55,186 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2023-09-17 13:32:55,187 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:55] "[36mGET /static/css/el-log.png HTTP/1.1[0m" 304 -
+2023-09-17 13:32:55,206 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:55] "[36mGET /static/css/logo.png HTTP/1.1[0m" 304 -
+2023-09-17 13:32:56,246 - INFO: 127.0.0.1 - - [17/Sep/2023 13:32:56] "[33mGET /run_voice_control HTTP/1.1[0m" 404 -
+2023-09-17 13:33:12,520 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-17 13:33:12,520 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-17 13:33:12,521 - INFO:  * Restarting with stat
+2023-09-17 13:33:12,985 - WARNING:  * Debugger is active!
+2023-09-17 13:33:12,990 - INFO:  * Debugger PIN: 620-993-558
+2023-09-17 13:34:39,667 - INFO:  * Detected change in 'C:\\Users\\Dell\\Desktop\\vsi\\app.py', reloading
+2023-09-17 13:34:39,699 - INFO:  * Restarting with stat
+2023-09-17 13:34:39,981 - WARNING:  * Debugger is active!
+2023-09-17 13:34:39,985 - INFO:  * Debugger PIN: 620-993-558
+2023-09-17 13:35:06,463 - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-17 13:35:06,463 - INFO: [33mPress CTRL+C to quit[0m
+2023-09-17 13:35:06,464 - INFO:  * Restarting with stat
+2023-09-17 13:35:06,773 - WARNING:  * Debugger is active!
+2023-09-17 13:35:06,776 - INFO:  * Debugger PIN: 620-993-558
+2023-09-17 13:36:49,543 - INFO:  * Detected change in 'c:\\Users\\Dell\\Desktop\\vsi\\app.py', reloading
+2023-09-17 13:36:49,568 - INFO:  * Restarting with stat
+2023-09-17 13:37:05,585 - INFO:  * Restarting with stat

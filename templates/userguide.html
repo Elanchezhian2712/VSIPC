@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Guide</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='css/logo.png') }}" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script async src="https://example.com/non-essential-script.js"></script>
+    <style>
+      .navbar1 {
+        background-color: rgba(0, 0, 0, 0.8);
+        color: #fff;
+        height: 60px;
+        font-size: 20px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      .navbar1-links li {
+        margin-right: 20px;
+        display: inline-block;
+      }
+
+      .navbar1-links a {
+        text-decoration: none;
+        color: #fff;
+      }
+
+      .navbar1-links a:hover {
+        color: #ff4081;
+      }
+
+      .contact-image {
+        max-width: 50%;
+        height: 640px;
+      }
+      .contact-container {
+        display: flex;
+        justify-content: space-between;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="navbar1">
+      <ul class="navbar1-links">
+        <li><a href="{{ url_for('index') }}">Home</a></li>
+      </ul>
+    </div>
+    <div class="contact-container">
+      <img
+        class="contact-image"
+        src="{{ url_for('static', filename='css/1.png') }}"
+        alt="Image Description 1"
+      />
+      <img
+        class="contact-image"
+        src="{{ url_for('static', filename='css/2.png') }}"
+        alt="Image Description 2"
+      />
+    </div>
+    <footer>
+      <p>
+        &copy; 2023 Elan Innovatix Labs | Designed by Elanchezhian_Muthukumar
+      </p>
+    </footer>
+  </body>
+</html>
