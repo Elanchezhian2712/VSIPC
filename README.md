@@ -1,4 +1,4 @@
-# VSIPC
+### VSIPC
 
 # Flask Application Setup Guide
 
@@ -32,3 +32,8 @@ This guide will walk you through setting up and running a Flask web application 
    
       python app.py
 
+## Snap of the Project
+![preview](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/36386543-dc80-4e8f-8b51-e6dd4dc38efb)
+
+## User Guid
+![User guide](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/85b5c56d-e5e6-441c-acab-1188a7c16488)
