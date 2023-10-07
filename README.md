@@ -35,8 +35,9 @@ It looks like you've provided a setup guide for a Flask web application named "V
 ![preview](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/36a633e8-b282-4440-9654-f7ef48f50777)
 
 ## User Guid:
-[1](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/cecd355c-72d7-4c53-ba93-ab829f0755cc)
-[2](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/0e75188b-6d9b-4911-add0-c9f5eba39d35)
+![1](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/83cfb42c-b429-4bac-8394-bdb0650f6658)
+![2](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/a14e6f2d-a8fc-4a93-9b1e-882c20ad9937)
+
 
 
 ### Demo Video
