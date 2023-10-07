@@ -1,5 +1,3 @@
-It looks like you've provided a setup guide for a Flask web application named "VSIPC." This guide explains how to set up and run the application using Python 3.8.0. Here's a breakdown of the provided information:
-
 ### Prerequisites
 - Python 3.8.0.
 
