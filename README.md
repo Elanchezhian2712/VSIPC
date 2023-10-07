@@ -6,8 +6,7 @@ This guide will walk you through setting up and running a Flask web application 
 
 ## Prerequisites
 
-- Python 3.8.0: You can download it from the [Python official website](https://www.python.org/downloads/release).
-- Git: If you don't have Git installed, you can get it [here](https://git-scm.com/downloads).
+   - Python 3.8.0.
 
 ## Installation
 
