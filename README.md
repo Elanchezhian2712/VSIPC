@@ -1,43 +1,40 @@
-### VSIPC
+It looks like you've provided a setup guide for a Flask web application named "VSIPC." This guide explains how to set up and run the application using Python 3.8.0. Here's a breakdown of the provided information:
 
-# Flask Application Setup Guide
+### Prerequisites
+- Python 3.8.0 is required to run this Flask application.
 
-This guide will walk you through setting up and running a Flask web application using Python 3.8.0.
-
-## Prerequisites
-
-   - Python 3.8.0.
-
-## Installation
-
+### Installation Steps
 1. **Install Python 3.8.0:**
+   - You should download Python 3.8.0 from the official Python website.
 
-   Installed Python 3.8.0, you can download it from the official Python website
- 
- 2. **Verify Python Installation:**
-
-   Open your terminal or command prompt and run the following command to ensure Python is installed correctly:
-
-   ```bash
-   python --version
+2. **Verify Python Installation:**
+   - Open your terminal or command prompt and run the following command to ensure Python is installed correctly:
+     ```bash
+     python --version
+     ```
 
 3. **Install Flask:**
-   
-      pip install Flask
-   
-4. **Install Requirement:**
-   
+   - To install Flask, use the following command:
+     ```bash
+     pip install Flask
+     ```
+
+4. **Install Requirements:**
+   - Install additional requirements for the application using the following command:
+     ```bash
      pip install -r requirements
+     ```
 
-5. **Run Flask Application**
-   
-      python app.py
+5. **Run Flask Application:**
+   - Start the Flask application by running the following command:
+     ```bash
+     python app.py
+     ```
 
-## Snap of the Project
-![preview](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/36386543-dc80-4e8f-8b51-e6dd4dc38efb)
+### Snap of the Project
+- You've provided an image preview of the project, but the image link seems to be broken. Make sure the image is accessible at the specified URL.
 
-## User Guid
-![User guide](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/85b5c56d-e5e6-441c-acab-1188a7c16488)
 
-## Demo Video
-https://vsi-pd.web.app/
+### Demo Video
+-  "https://vsi-pd.web.app/."
+
