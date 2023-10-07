@@ -27,6 +27,10 @@ This guide will walk you through setting up and running a Flask web application 
 3. **Install Flask:**
    
       pip install Flask
+   
+4. **Install Requirement:**
+   
+     pip install -r requirements
 
 5. **Run Flask Application**
    
