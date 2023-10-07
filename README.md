@@ -32,7 +32,7 @@ It looks like you've provided a setup guide for a Flask web application named "V
      ```
 
 ### Snap of the Project:
-- ![preview](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/36a633e8-b282-4440-9654-f7ef48f50777)
+![preview](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/36a633e8-b282-4440-9654-f7ef48f50777)
 
 ## User Guid:
 ![1](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/cecd355c-72d7-4c53-ba93-ab829f0755cc)
