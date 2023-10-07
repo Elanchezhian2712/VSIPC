@@ -13,11 +13,9 @@ This guide will walk you through setting up and running a Flask web application 
 
 1. **Install Python 3.8.0:**
 
-   If you haven't already installed Python 3.8.0, you can download it from the official Python website:
-
-   - [Download Python 3.8.0](https://www.python.org/downloads/release)
-
-2. **Verify Python Installation:**
+   Installed Python 3.8.0, you can download it from the official Python website
+ 
+ 2. **Verify Python Installation:**
 
    Open your terminal or command prompt and run the following command to ensure Python is installed correctly:
 
