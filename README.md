@@ -31,8 +31,12 @@ It looks like you've provided a setup guide for a Flask web application named "V
      python app.py
      ```
 
-### Snap of the Project
-- You've provided an image preview of the project, but the image link seems to be broken. Make sure the image is accessible at the specified URL.
+### Snap of the Project:
+- ![preview](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/36a633e8-b282-4440-9654-f7ef48f50777)
+
+## User Guid:
+![1](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/cecd355c-72d7-4c53-ba93-ab829f0755cc)
+![2](https://github.com/Elanchezhian2712/VSIPC/assets/122656808/0e75188b-6d9b-4911-add0-c9f5eba39d35)
 
 
 ### Demo Video
