@@ -41,5 +41,5 @@ It looks like you've provided a setup guide for a Flask web application named "V
 
 
 ### Demo Video
--  "https://vsi-pd.web.app/."
+"https://vsi-pd.web.app/."
 
